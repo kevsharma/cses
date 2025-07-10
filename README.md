@@ -1,2 +1,1 @@
-Trying to find a substitute for World of Warcraft
-username = sharkev
+Trying to find a substitute for World of Warcraft. https://cses.fi/user/79144/
